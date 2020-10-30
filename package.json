@@ -1,0 +1,18 @@
+{
+  "name": "markdown-reader",
+  "version": "1.0.0",
+  "description": "making a markdown reader app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Carroll",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^1.2.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.28.0"
+  }
+}
