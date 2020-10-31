@@ -95,3 +95,13 @@ $ tree -a >> tree-1.txt
 ```
 
 ---
+
+#### now I have added gulp and sass as dev dependencies
+
+let me figure out a more subtle way to do the tree stuff now. It's probably a lot more than 31 files now
+
+two new iterations of the `tree` command.
+
+`tree -a -o tree-2.txt`
+
+**wow** the `tree-2.txt` file has 5102 lines. Damn. 914 directories, 4185 files
