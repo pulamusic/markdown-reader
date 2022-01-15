@@ -9,7 +9,7 @@
   "author": "Jim Carroll",
   "license": "MIT",
   "dependencies": {
-    "marked": "^1.2.2"
+    "marked": "^4.0.10"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
